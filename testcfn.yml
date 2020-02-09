@@ -1,0 +1,6 @@
+Description: >
+    Nataniel Carvalho / Udacity 2019
+    This template deploys a VPC
+Resources:
+    VPC:
+        TYPE: AWS::EC2::VPC
