@@ -28,3 +28,6 @@ Important AWS IP configuration, when it's configured we make sure that the provi
 ## Understanding Security Groups
 [Security Groups Resource](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-security-group.html)
 [Security Group Rules Reference](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-rules-reference.html)
+
+## Launch configuration (Virtual Machines with Docker, for example)
+[Launch Configuration Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-as-launchconfig.html)
