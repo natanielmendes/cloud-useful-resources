@@ -31,3 +31,7 @@ Important AWS IP configuration, when it's configured we make sure that the provi
 
 ## Launch configuration (Virtual Machines with Docker, for example)
 [Launch Configuration Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-as-launchconfig.html)
+
+## Adding Target Groups and Listeners
+[TargetGroups Documentation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-elasticloadbalancingv2-targetgroup.html)
+[Health Checks for Your TargetGroups](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/target-group-health-checks.html)
